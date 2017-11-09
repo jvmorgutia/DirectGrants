@@ -1,6 +1,4 @@
-# Project_R
-A mobile application for grants and scholarships
-
- test2
+# DirectGrants
+A web application for grants and scholarships
   
   
