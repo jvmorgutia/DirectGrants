@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DirectGrants", "DirectGrants\DirectGrants.csproj", "{EEFE7413-81FE-49FD-8333-5804A62B5FEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DirectGrants.Tests", "DirectGrants.Tests\DirectGrants.Tests.csproj", "{A98BE0BB-B64F-4AAE-92F8-A3756548844B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEFE7413-81FE-49FD-8333-5804A62B5FEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEFE7413-81FE-49FD-8333-5804A62B5FEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEFE7413-81FE-49FD-8333-5804A62B5FEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEFE7413-81FE-49FD-8333-5804A62B5FEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A98BE0BB-B64F-4AAE-92F8-A3756548844B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A98BE0BB-B64F-4AAE-92F8-A3756548844B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A98BE0BB-B64F-4AAE-92F8-A3756548844B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A98BE0BB-B64F-4AAE-92F8-A3756548844B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
